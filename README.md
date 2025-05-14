@@ -1,23 +1,30 @@
 ----
-### :👩‍💻: About Me:
+<!--
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+--> 
+## 👩‍💻 About Me:
+<h1>Hi, I'm Luciana!</h1>
+<h3>Clinical Database Programmer, SAS Programmer, Application Support</h3>
 
-<h1>Hi, I'm Luciana!  I am glad you landed on my page.</h1><br/>
-###Clinical Database Programmer, SAS Programmer, Application Support
-
-<h2>👨‍💻 Skills:</h2>
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+<h4>👨‍💻 Skills:</h4>
+- <b>SQL (Oracle)</b>
   - [Praciting DS & Algos in Python](https://github.com/palluc/xxxx)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>SAS (Base, Macro, Proc SQL, Proc Report, Proc Freq, SAS Stored Procedures)</b>
   - [Image Analysis Middleware](https://github.com/palluc/xxxx) <b><i>(Potentially NSFW)</b></i>
 
-<h2>👨‍💻 I’m currently working on ...:</h2>
+<h4>👨‍💻 I’m currently working on ...:</h4>
 
-- <b>PowerShell</b>
+- <b>Data Science / Python</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
+- <b>Power BI (Microsoft)/b>
+- <b>ETL - Microsoft BI/b>
 
 <h2>👨‍💻 I’m currently learning ...:</h2>
 - <b>Data Science / Python</b>

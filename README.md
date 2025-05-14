@@ -12,21 +12,18 @@
 
 <h4>👨‍💻 Skills:</h4>
 - <b>SQL (Oracle)</b>
-  - [Praciting DS & Algos in Python](https://github.com/palluc/xxxx)
 - <b>SAS (Base, Macro, Proc SQL, Proc Report, Proc Freq, SAS Stored Procedures)</b>
-  - [Image Analysis Middleware](https://github.com/palluc/xxxx) <b><i>(Potentially NSFW)</b></i>
 
 <h4>👨‍💻 I’m currently working on ...:</h4>
 - <b>Data Science / Python</b>
-- <b>Power BI (Microsoft)/b>
-- <b>ETL - Microsoft BI/b>
+- <b>Power BI (Microsoft)</b>
+- <b>ETL - Microsoft BI</b>
 
 <h2>👨‍💻 I’m currently learning ...:</h2>
 - <b>Data Science / Python</b>
 
 - <b>Power BI (Microsoft)</b>
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 
 <h2> 🤳 Connect with me:</h2>
 

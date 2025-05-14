@@ -1,7 +1,8 @@
 ----
 ### :👩‍💻: About Me:
 
-<h1>Hi, I'm Luciana!  I am glad you landed on my page.<br/><a href="https://github.com/palluc">Clinical Database Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">SAS Programmer</a>, <a href="https://www.youtube.com/c/joshmadakor">Application Support</a></h1>
+<h1>Hi, I'm Luciana!  I am glad you landed on my page.</h1><br/>
+###Clinical Database Programmer, SAS Programmer, Application Support
 
 <h2>👨‍💻 Skills:</h2>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>

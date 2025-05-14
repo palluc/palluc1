@@ -17,22 +17,16 @@
   - [Image Analysis Middleware](https://github.com/palluc/xxxx) <b><i>(Potentially NSFW)</b></i>
 
 <h4>👨‍💻 I’m currently working on ...:</h4>
-
 - <b>Data Science / Python</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Power BI (Microsoft)/b>
 - <b>ETL - Microsoft BI/b>
 
 <h2>👨‍💻 I’m currently learning ...:</h2>
 - <b>Data Science / Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 - <b>Power BI (Microsoft)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 <h2> 🤳 Connect with me:</h2>
 

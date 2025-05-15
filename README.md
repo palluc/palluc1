@@ -7,17 +7,28 @@
 </picture>
 --> 
 ## 👩‍💻 About Me:
-<h1>Hi, I'm Luciana!</h1>
-<h3>Clinical Database Programmer, SAS Programmer, Application Support</h3>
+#### Hi, I'm Luciana!
+#### Clinical Database Programmer, SAS Programmer, Application Support
 
-<h4>👨‍💻 Skills:</h4>
-- <b>SQL (Oracle)</b>
-- <b>SAS (Base, Macro, Proc SQL, Proc Report, Proc Freq, SAS Stored Procedures)</b>
+<h4>👨‍💻 Skills</h4>
+<ul>
+<li>SQL Oracle</li>
+<li>SAS Base, Macro, Proc SQL, Proc Report, Proc Freq, SAS Stored Procedures</li>
+</ul>
+
+|eCRF Design and Support|
+|:----------|
+|SQL (Oracle)|
+|SAS Base, Macro, Proc SQL, Proc Report, Proc Freq|
+|SAS Stored Procedures|
+
 
 <h4>👨‍💻 I’m currently working on ...:</h4>
-- <b>Data Science / Python</b>
-- <b>Power BI (Microsoft)</b>
-- <b>ETL - Microsoft BI</b>
+<ul>
+<li>Data Science / Python</li>
+<li>Power BI (Microsoft)</li>
+<li>ETL - Microsoft BI</li>
+</ul>
 
 <h2>👨‍💻 I’m currently learning ...:</h2>
 - <b>Data Science / Python</b>

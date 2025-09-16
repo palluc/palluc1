@@ -6,15 +6,9 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 --> 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+<img src="https://capsule-render.vercel.app/api?text=Luciana%20Palucci&fontSize=60&fontAlignY=38&animation=fadeIn&type=waving&color=gradient&height=200&desc=Clinical%20Programmer%20Application%20Support" width="100%"/>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Luciana%20Palucci&fontSize=90&fontAlignY=38&animation=fadeIn&type=waving&color=gradient&height=300&desc=Clinical Programmer|%20Application Support" width="100%" />
-</div>
-
 
 ## 👩‍💻 About Me:
 #### Hi, I'm Luciana!

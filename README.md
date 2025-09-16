@@ -6,6 +6,26 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 --> 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn
+   &type=waving
+   &color=gradient
+   &height=100"/>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?
+   type=waving
+   &height=300
+   &color=gradient
+   &text=Luciana%20Palucci&fontSize=90
+   &animation=fadeIn
+   &fontAlignY=38
+   &desc=Clinical Programmer|%20Application Support" width="100%" />
+</div>
+
+
 ## 👩‍💻 About Me:
 #### Hi, I'm Luciana!
 #### Clinical Database Programmer, SAS Programmer, Application Support

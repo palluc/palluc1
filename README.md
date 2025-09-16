@@ -8,21 +8,11 @@
 --> 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn
-   &type=waving
-   &color=gradient
-   &height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?
-   type=waving
-   &height=300
-   &color=gradient
-   &text=Luciana%20Palucci&fontSize=90
-   &animation=fadeIn
-   &fontAlignY=38
-   &desc=Clinical Programmer|%20Application Support" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?text=Luciana%20Palucci&fontSize=90&fontAlignY=38&animation=fadeIn&type=waving&color=gradient&height=300&desc=Clinical Programmer|%20Application Support" width="100%" />
 </div>
 
 

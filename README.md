@@ -61,26 +61,3 @@ Expand Python programming and explore into the data science field, specifically 
 </div>
 <div><a href="https://www.citiprogram.org/verify/?w420d9d30-8dd6-4ab9-98e0-080c72f66c6a-64541184">Good Clinical Practice (GCP) for Clinical Investigations of Devices</a>
 </div>
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="LucianaPalucci | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LucianaPalucci | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[X (formerly twitter)]: https://x.com/JP18679157
-[linkedin]:             www.linkedin.com/in/luciana-p
-
-<!--
-**palluc/palluc** is a _special_ repository because its 'README.md' (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

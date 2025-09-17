@@ -48,10 +48,11 @@ Expand Python programming and explore into the data science field, specifically 
 <li>ETL - Microsoft BI</li>
 </ul>
 
-<h2>👨‍💻 I’m currently learning ...:</h2>
-- <b>Data Science / Python</b>
-
-- <b>Power BI (Microsoft)</b>
+## :hammer_and_wrench: Languages and Tools :
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
+</p>
 
 ## Certifications
 <div><a href="https://www.citiprogram.org/verify/?w61ca8998-c5cd-42c8-a271-e6a521f51878-61768179">Good Clinical Practice (GCP) - Canada</a>

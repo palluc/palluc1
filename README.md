@@ -1,20 +1,13 @@
 ----
-<!--
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+<!-- <picture></picture>
 --> 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?text=Luciana%20Palucci&fontSize=60&fontAlignY=38&animation=fadeIn&type=waving&color=gradient&height=200&desc=Clinical%20Programmer%20|%20Application%20Support" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:447b66,100:f6c915&text=Luciana%20Palucci&animation=fadeIn&textBg=false&fontColor=191970&reversal=true&fontAlignY=25&fontAlign=50&fontSize=50&desc=Clinical%20Programmer%20|%20Application%20Support&descSize=10&descAlign=50&descAlignY=50" width="100%"/>
 </p>
+<a href="https://linkedin.com/in/luciana-p"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## 👩 About Me:
 <!-- Clinical Database Programmer, SAS Programmer, Application Support -->
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=500&color=00D9FF&center=false&vCenter=false&multiline=true&width=800&height=100&lines=>%20Clinical%20Programmer;>%20Delivering%20Application%20Support%2C%20SAS%20+%26+%20+%20Database%20Programming;>%20Insights%20for%20the%20CRO%20+%20ARO%2C%20Passenger%20Transport%20Sectors" alt="Typing SVG" />
-</p>
 
 ***
 Clinical Programmer with background experience in the Contract Research Organization (CRO)/Acedemic Research Organization (ARO) and passenger travel industries, and an interest in analytical thinking and a dedication to problem solving for application support.</br>
@@ -23,6 +16,10 @@ Oversaw the data management part throughout the clinical trial phases, ensuring 
 </br>
 Developped and maintained clinical programs to extract, validate, and create reports on clinical trial data.  
 ***
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=500&color=00D9FF&center=false&vCenter=false&multiline=true&width=800&height=100&lines=>%20Clinical%20Programmer;>%20Delivering%20Application%20Support%2C%20SAS%20+%26+%20+%20Database%20Programming;>%20Insights%20for%20the%20CRO%20+%20ARO%2C%20Passenger%20Transport%20Sectors" alt="Typing SVG" />
+</p>
 
 ## Objective
 Expand Python programming and explore into the data science field, specifically using reporting tools.

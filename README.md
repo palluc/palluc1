@@ -4,7 +4,8 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:447b66,100:f6c915&text=Luciana%20Palucci&animation=fadeIn&textBg=false&fontColor=191970&reversal=true&fontAlignY=25&fontAlign=50&fontSize=50&desc=Clinical%20Programmer%20|%20Application%20Support&descSize=10&descAlign=50&descAlignY=50" width="100%"/>
 </p>
-<a href="https://linkedin.com/in/luciana-p"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/luciana-p"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/>  </a>
+<a href="https://x.com/JP18679157"><img src="https://img.shields.io/badge/X?style=for-the-badge&logo=X%20(formerly%20twitter)"/></a>
 
 ## 👩 About Me:
 <!-- Clinical Database Programmer, SAS Programmer, Application Support -->
@@ -37,6 +38,22 @@ Expand Python programming and explore into the data science field, specifically 
 |SAS Base, Macro, Proc SQL, Proc Report, Proc Freq|
 |SAS Stored Procedures|
 
+<h2>Skills:</h2>
+
+- <b>eCRF Design and Support</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>SAS Programming (SAS Base, Macro, Proc SQL, Proc Report, Proc Freq)</b>
+  - [Image Analysis Middleware](https://github.com/x/x)
+- <b>Python</b>
+  - [Text File Input/Output](https://github.com/palluc/DS1-E1-FileIO)
+  - [Regular Expression and Pandas Dataframe](https://github.com/palluc/DS1_E2_RegularExpression)
+  - [WebScraping with Beautiful Soup and Database Write with SQLite3 Engine](https://github.com/palluc/DS_E4_Database_WebScraping)
+  - [Working with JSON Format and Introduction to API](https://github.com/palluc/DS1_E5_JSON_API)
+  - [Exploring Matplotlib and Linear Regression](https://github.com/palluc/DS1_E6_Matplotlib_LinearRegression)
+  - [Exploring Matplotlib and K-Means Clustering](https://github.com/palluc/DS1_E7_Matplotlib_KMeans)
+- <b>Power BI</b>
+- <b>Microsoft ETCL</b>
+  
 
 <h4>👨‍💻 I’m currently working on ...:</h4>
 <ul>

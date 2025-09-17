@@ -18,7 +18,7 @@ Developped and maintained clinical programs to extract, validate, and create rep
 ***
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=500&color=00D9FF&center=false&vCenter=false&multiline=true&width=800&height=100&lines=>%20Clinical%20Programmer;>%20Delivering%20Application%20Support%2C%20SAS%20+%26+%20+%20Database%20Programming;>%20Insights%20for%20the%20CRO%20+%20ARO%2C%20Passenger%20Transport%20Sectors" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=12&duration=1000&pause=500&color=000000&center=false&vCenter=false&background=80FFB700&multiline=true&repeat=false&width=500&height=60&lines=>%20Clinical%20Programmer;>%20Delivering%20Application%20Support%2C%20SAS%20+%26+%20+%20Database%20Programming;>%20Insights%20for%20the%20CRO%20+%20ARO%2C%20Passenger%20Transport%20Sectors" alt="Typing SVG" />
 </p>
 
 ## Objective

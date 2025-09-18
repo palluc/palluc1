@@ -5,7 +5,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:447b66,100:f6c915&text=Luciana%20Palucci&animation=fadeIn&textBg=false&fontColor=191970&reversal=true&fontAlignY=25&fontAlign=50&fontSize=50&desc=Clinical%20Programmer%20|%20Application%20Support&descSize=10&descAlign=50&descAlignY=50" width="100%"/>
 </p>
 <a href="https://linkedin.com/in/luciana-p"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;&nbsp;</a>
-<a href="https://x.com/JP18679157"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FJP18679157&style=for-the-badge&logo=X"/>&nbsp;&nbsp;</a>
+<a href="https://x.com/JP18679157"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=X%20(formerly%20twitter)&logoColor=white"/>&nbsp;&nbsp;</a>
+
 
 ## 👩 About Me:
 <!-- Clinical Database Programmer, SAS Programmer, Application Support -->

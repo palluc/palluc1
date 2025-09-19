@@ -8,7 +8,7 @@
 <a href="https://x.com/JP18679157"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=X%20(formerly%20twitter)&logoColor=white"/>&nbsp;&nbsp;</a>
 
 
-## About Me 👩 :
+## About Me 👩
 <!-- Clinical Database Programmer, SAS Programmer, Application Support -->
 
 ***
@@ -39,26 +39,22 @@ Expand Python programming and explore into the data science field, specifically 
 - <b>Power BI</b>
 - <b>ETL - Microsoft BI</b>
 
-## Languages and Tools Used :hammer_and_wrench::
+## Some Tools I Have Used and Learned :hammer_and_wrench:
 <p>
-<img src="https://img.shields.io/badge/Oracle%20HS--InForm6-blue?style=flat&logo=Oracle%20HS-InForm6&logoColor=white&logoSize=40" title="InForm6" alt="Oracle%20HS-InForm6"/>
-<img src="https://img.shields.io/badge/Oracle%20Clinical%20One-blue?style=flat&logo=Oracle%20Clinical%20One&logoColor=white&logoSize=40" title="Clinical1" alt="Clinical1"/>
-
-<img src="https://img.shields.io/badge/SAS-blue?style=flat&logo=SAS&logoColor=white&logoSize=40" title="SAS" alt="SAS"/>
-<img src="https://img.shields.io/badge/SQLite-blue?style=flat&logo=SQLite&logoColor=#003B57&logoSize=40" title="SQLite" alt="SQLite"/>
-<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=#3776AB&logoSize=40" title="Python" alt="Python"/>
-<img src="https://img.shields.io/badge/Power%20BI-blue?style=flat&logo=Power%20BI&logoColor=white&logoSize=40" title="Power%20BI" alt="Power%20BI"/>
-<img src="https://img.shields.io/badge/ETL-Microsoft%20BI-blue?style=flat&logo=ETL&logoColor=white&logoSize=40" title="ETL-BI" alt="ETL-BI"/>
-
-<img src="https://img.shields.io/badge/HTML5-blue?style=flat&logo=HTML5&logoColor=#E34F26&logoSize=40" title="HTML5" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=CSS&logoColor=#663399&logoSize=40" title="CSS" alt="CSS"/>
-
-<img src="https://img.shields.io/badge/JSON-blue?style=flat&logo=JSON&logoColor=#000000&logoSize=40" title="JSON" alt="JSON"/>
-<img src="https://img.shields.io/badge/XML-blue?style=flat&logo=XML&logoColor=#005FAD&logoSize=40" title="XML" alt="XML"/>
-
+<a href="#"><img src="https://img.shields.io/badge/Oracle%20HS-InForm6-282C34?style=flat&logo=Oracle%20HS-InForm6&logoColor=white&logoSize=40" title="InForm6" alt="Oracle%20HS-InForm6" style="pointer-events=none;"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Oracle%20Clinical%20One-282C34?style=flat&logo=Oracle%20Clinical%20One&logoColor=white&logoSize=40" title="Clinical1" alt="Clinical1" style="pointer-events=none;"/></a>
+<a href="#"><img src="https://img.shields.io/badge/SAS-Software-blue?style=flat&logo=SAS&logoColor=blue&logoSize=40" title="SAS" alt="SAS" style="pointer-events=none;"/></a>
+<a href="#"><img src="https://img.shields.io/badge/SQLite-282C34?style=flat&logo=SQLite&logoColor=#003B57&logoSize=40" title="SQLite" alt="SQLite" style="pointer-events=none;"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-282C34?style=flat&logo=Python&logoColor=yellow&logoSize=40" title="Python" alt="Python" style="pointer-events=none;"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Power%20BI-282C34?style=flat&logo=Power%20BI&logoColor=white&logoSize=40" title="Power%20BI" alt="Power%20BI" style="pointer-events=none;"/></a>
+<a href="#"><img src="https://img.shields.io/badge/ETL-Microsoft%20BI-282C34?style=flat&logo=ETL&logoColor=white&logoSize=40" title="ETL-BI" alt="ETL-BI" style="pointer-events=none;"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HTML5-282C34?style=flat&logo=HTML5&logoColor=#E34F26&logoSize=40" title="HTML5" alt="HTML5" style="pointer-events=none;"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS3-282C34?style=flat&logo=css3&logoColor=#1572B6&logoSize=40" title="CSS" alt="CSS" style="pointer-events=none;"/></a>
+<a href="#"><img src="https://img.shields.io/badge/JSON-282C34?style=flat&logo=JSON&logoColor=#000000&logoSize=40" title="JSON" alt="JSON" style="pointer-events=none;"/></a>
+<a href="#"><img src="https://img.shields.io/badge/XML-282C34?style=flat&logo=XML&logoColor=#005FAD&logoSize=40" title="XML" alt="XML" style="pointer-events=none;"/></a>
 </p>
 
-## Certifications
+## Certifications and Trainings
 <p>
 <div><a href="https://www.citiprogram.org/verify/?w61ca8998-c5cd-42c8-a271-e6a521f51878-61768179">Good Clinical Practice (GCP) - Canada</a>
 </div>

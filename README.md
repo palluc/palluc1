@@ -49,10 +49,17 @@ Expand Python programming and explore into the data science field, specifically 
 <li>ETL - Microsoft BI</li>
 </ul>
 
-## :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools Used:
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
+
+
+<img src="https://img.shields.io/badge/SQLite-blue?style=flat&logo=SQLite&logoColor=#003B57&logoSize=40" title="SQLite" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=#3776AB&logoSize=40" title="Python" alt="Python"/>
+<img src="https://img.shields.io/badge/SAS-blue?style=flat&logo=SAS&logoColor=white&logoSize=40" title="SAS" alt="SAS"/>
+<img src="https://img.shields.io/badge/Power%20BI-blue?style=flat&logo=Power%20BIETL&logoColor=white&logoSize=40" title="Power%20BI" alt="Power%20BI"/>
+<img src="https://img.shields.io/badge/ETL-Microsoft%20BI-blue?style=flat&logo=ETL&logoColor=white&logoSize=40" title="ETL-BI" alt="ETL-BI"/>
 </p>
 
 ## Certifications

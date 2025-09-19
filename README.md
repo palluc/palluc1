@@ -8,7 +8,7 @@
 <a href="https://x.com/JP18679157"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=X%20(formerly%20twitter)&logoColor=white"/>&nbsp;&nbsp;</a>
 
 
-## 👩 About Me:
+## About Me 👩 :
 <!-- Clinical Database Programmer, SAS Programmer, Application Support -->
 
 ***
@@ -39,7 +39,7 @@ Expand Python programming and explore into the data science field, specifically 
 - <b>Power BI</b>
 - <b>ETL - Microsoft BI</b>
 
-## :hammer_and_wrench: Languages and Tools Used:
+## Languages and Tools Used :hammer_and_wrench::
 <p>
 <img src="https://img.shields.io/badge/Oracle%20HS--InForm6-blue?style=flat&logo=Oracle%20HS-InForm6&logoColor=white&logoSize=40" title="InForm6" alt="Oracle%20HS-InForm6"/>
 <img src="https://img.shields.io/badge/Oracle%20Clinical%20One-blue?style=flat&logo=Oracle%20Clinical%20One&logoColor=white&logoSize=40" title="Clinical1" alt="Clinical1"/>

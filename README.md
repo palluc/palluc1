@@ -42,8 +42,8 @@ Expand Python programming and explore into the data science field, specifically 
 ## Some Tools I Have Used and Learned :hammer_and_wrench:
 <p>
 <a href="#"><img src="https://img.shields.io/badge/Oracle%20HS-InForm6-282C34?style=flat&logo=Oracle%20HS-InForm6&logoColor=white&logoSize=40" title="InForm6" alt="Oracle%20HS-InForm6" style="pointer-events=none;"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Oracle%20Clinical%20One-282C34?style=flat&logo=Oracle%20Clinical%20One&logoColor=white&logoSize=40" title="Clinical1" alt="Clinical1" style="pointer-events=none;"/></a>
-<a href="#"><img src="https://img.shields.io/badge/SAS-Software-blue?style=flat&logo=SAS&logoColor=blue&logoSize=40" title="SAS" alt="SAS" style="pointer-events=none;"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Oracle%20LS-Clinical%20One-282C34?style=flat&logo=Oracle%20LS-%20Clinical%20One&logoColor=white&logoSize=50" title="Clinical1" alt="Clinical1" style="pointer-events=none;"/></a>
+<a href="#"><img src="https://img.shields.io/badge/SAS--Software-282C34?style=flat&logo=SAS&logoColor=blue&logoSize=40" title="SAS" alt="SAS" style="pointer-events=none;"/></a>
 <a href="#"><img src="https://img.shields.io/badge/SQLite-282C34?style=flat&logo=SQLite&logoColor=#003B57&logoSize=40" title="SQLite" alt="SQLite" style="pointer-events=none;"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-282C34?style=flat&logo=Python&logoColor=yellow&logoSize=40" title="Python" alt="Python" style="pointer-events=none;"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Power%20BI-282C34?style=flat&logo=Power%20BI&logoColor=white&logoSize=40" title="Power%20BI" alt="Power%20BI" style="pointer-events=none;"/></a>

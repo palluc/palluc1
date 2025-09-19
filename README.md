@@ -28,9 +28,7 @@ Expand Python programming and explore into the data science field, specifically 
 
 ## Skills
 - <b>eCRF Design and Support</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SAS Programming (SAS Base, Macro, Proc SQL, Proc Report, Proc Freq)</b>
-  - [Image Analysis Middleware](https://github.com/x/x)
 - <b>Python</b>
   - [Text File Input/Output](https://github.com/palluc/DS1-E1-FileIO)
   - [Regular Expression and Pandas Dataframe](https://github.com/palluc/DS1_E2_RegularExpression)
@@ -41,6 +39,34 @@ Expand Python programming and explore into the data science field, specifically 
 - <b>Power BI</b>
 - <b>ETL - Microsoft BI</b>
 
+## :hammer_and_wrench: Languages and Tools Used:
+<p>
+<img src="https://img.shields.io/badge/Oracle%20HS--InForm6-blue?style=flat&logo=Oracle%20HS-InForm6&logoColor=white&logoSize=40" title="InForm6" alt="Oracle%20HS-InForm6"/>
+<img src="https://img.shields.io/badge/Oracle%20Clinical%20One-blue?style=flat&logo=Oracle%20Clinical%20One&logoColor=white&logoSize=40" title="Clinical1" alt="Clinical1"/>
+
+<img src="https://img.shields.io/badge/SAS-blue?style=flat&logo=SAS&logoColor=white&logoSize=40" title="SAS" alt="SAS"/>
+<img src="https://img.shields.io/badge/SQLite-blue?style=flat&logo=SQLite&logoColor=#003B57&logoSize=40" title="SQLite" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=#3776AB&logoSize=40" title="Python" alt="Python"/>
+<img src="https://img.shields.io/badge/Power%20BI-blue?style=flat&logo=Power%20BI&logoColor=white&logoSize=40" title="Power%20BI" alt="Power%20BI"/>
+<img src="https://img.shields.io/badge/ETL-Microsoft%20BI-blue?style=flat&logo=ETL&logoColor=white&logoSize=40" title="ETL-BI" alt="ETL-BI"/>
+
+<img src="https://img.shields.io/badge/HTML5-blue?style=flat&logo=HTML5&logoColor=#E34F26&logoSize=40" title="HTML5" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=CSS&logoColor=#663399&logoSize=40" title="CSS" alt="CSS"/>
+
+<img src="https://img.shields.io/badge/JSON-blue?style=flat&logo=JSON&logoColor=#000000&logoSize=40" title="JSON" alt="JSON"/>
+<img src="https://img.shields.io/badge/XML-blue?style=flat&logo=XML&logoColor=#005FAD&logoSize=40" title="XML" alt="XML"/>
+
+</p>
+
+## Certifications
+<p>
+<div><a href="https://www.citiprogram.org/verify/?w61ca8998-c5cd-42c8-a271-e6a521f51878-61768179">Good Clinical Practice (GCP) - Canada</a>
+</div>
+<div><a href="https://www.citiprogram.org/verify/?w0be01109-635d-4db1-8371-c8d300bcc443-50012165">Health Canada Division 5 - Drugs For Clinical Trials Involving Human Subjects</a>
+</div>
+<div><a href="https://www.citiprogram.org/verify/?w420d9d30-8dd6-4ab9-98e0-080c72f66c6a-64541184">Good Clinical Practice (GCP) for Clinical Investigations of Devices</a>
+</div>
+</p>
 
 <h4>👨‍💻 I’m currently working on ...:</h4>
 <ul>
@@ -49,23 +75,7 @@ Expand Python programming and explore into the data science field, specifically 
 <li>ETL - Microsoft BI</li>
 </ul>
 
-## :hammer_and_wrench: Languages and Tools Used:
-<p>
+<!--
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
-
-
-<img src="https://img.shields.io/badge/SQLite-blue?style=flat&logo=SQLite&logoColor=#003B57&logoSize=40" title="SQLite" alt="SQLite"/>
-<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=#3776AB&logoSize=40" title="Python" alt="Python"/>
-<img src="https://img.shields.io/badge/SAS-blue?style=flat&logo=SAS&logoColor=white&logoSize=40" title="SAS" alt="SAS"/>
-<img src="https://img.shields.io/badge/Power%20BI-blue?style=flat&logo=Power%20BIETL&logoColor=white&logoSize=40" title="Power%20BI" alt="Power%20BI"/>
-<img src="https://img.shields.io/badge/ETL-Microsoft%20BI-blue?style=flat&logo=ETL&logoColor=white&logoSize=40" title="ETL-BI" alt="ETL-BI"/>
-</p>
-
-## Certifications
-<div><a href="https://www.citiprogram.org/verify/?w61ca8998-c5cd-42c8-a271-e6a521f51878-61768179">Good Clinical Practice (GCP) - Canada</a>
-</div>
-<div><a href="https://www.citiprogram.org/verify/?w0be01109-635d-4db1-8371-c8d300bcc443-50012165">Health Canada Division 5 - Drugs For Clinical Trials Involving Human Subjects</a>
-</div>
-<div><a href="https://www.citiprogram.org/verify/?w420d9d30-8dd6-4ab9-98e0-080c72f66c6a-64541184">Good Clinical Practice (GCP) for Clinical Investigations of Devices</a>
-</div>
+-->

@@ -1,4 +1,3 @@
-----
 <!-- <picture></picture>
 --> 
 <p align="center">

@@ -9,7 +9,7 @@
 <p>
 Clinical Programmer with background experience in the Contract Research Organization (CRO)/Acedemic Research Organization (ARO) and passenger travel industries, and an interest in analytical thinking and a dedication to problem solving for application support.</br>
 </br>
-Oversaw the data management part throughout the clinical trial phases, ensuring data accuracy and integrity from collection to submission to regulatory authorities.</br>
+I oversaw the data management part throughout the clinical trial phases, ensuring data accuracy and integrity from data collection to submission to regulatory authorities.</br>
 </br>
 Developped and maintained clinical programs to extract, validate, and create reports on clinical trial data.  
 </p>
